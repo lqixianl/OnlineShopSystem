@@ -1,0 +1,1489 @@
+{
+  "goodslist": [
+    {
+      "id": 1001,
+      "name": "OnePlus 7",
+      "price": [
+        "2799.00",
+        "3299.00",
+        "2799.00"
+      ],
+      "typename": "选择版本型号",
+      "types": [
+        "曜岩灰8G+256GB",
+        "曜岩灰12G+256GB",
+        "珐琅红8G+256GB"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/13/322/4f62f9198f301a8201b8e6ceb92d5a6f_840_840.png",
+            "https://image01.oneplus.cn/ebp/201905/13/1635/4cb3f4e0ff456e9a15e0c9f920751bca_840_840.png",
+            "https://image01.oneplus.cn/ebp/201905/13/134/eae6d07343335d6ffc16ac144c870eb9_840_840.png",
+            "https://image01.oneplus.cn/ebp/201905/13/1445/a1e567cf23c05da89fa41978bb3d1d64_840_840.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/13/322/4f62f9198f301a8201b8e6ceb92d5a6f_840_840.png",
+            "https://image01.oneplus.cn/ebp/201905/13/1635/4cb3f4e0ff456e9a15e0c9f920751bca_840_840.png",
+            "https://image01.oneplus.cn/ebp/201905/13/134/eae6d07343335d6ffc16ac144c870eb9_840_840.png",
+            "https://image01.oneplus.cn/ebp/201905/13/1445/a1e567cf23c05da89fa41978bb3d1d64_840_840.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/13/1672/54a8a6a1e196afdb4aabb4543ff4088e_840_840.png",
+            "https://image01.oneplus.cn/ebp/201905/13/1998/55ee5963848dd9acbd0367710daec4e1_840_840.png",
+            "https://image01.oneplus.cn/ebp/201905/13/777/ed693d9fc0affbb0b90f56b9575d30cd_840_840.png",
+            "https://image01.oneplus.cn/ebp/201905/13/774/4956bbdc8cd82165d6f521d213593ba3_840_840.png"
+          ]
+        }
+      ],
+      "discount": "9.4折",
+      "select": [
+        "精选商品",
+        "手机",
+        "全部机型",
+        "OnePlus 7"
+      ],
+      "state": true
+    },
+    {
+      "id": 6001,
+      "name": "一加 Explorer 双肩包",
+      "price": [
+        "499.00",
+        "499.00"
+      ],
+      "typename": "颜色",
+      "types": [
+        "玄石黑",
+        "岩井绿"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201811/14/1209/b0990b01d3a8c92e9ac600be454441e2.png",
+            "https://image01.oneplus.cn/ebp/201811/14/187/470bbece54f5692f3460dd58a5fa4004.png",
+            "https://image01.oneplus.cn/ebp/201811/14/1554/aa228543e32ae475a198be5f973ce74c.png",
+            "https://image01.oneplus.cn/ebp/201811/14/1982/a3fee6d4056c0b2ec7672bc06868922f.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201811/14/1275/a90bbcba96bc478d759743419aae2a61.png",
+            "https://image01.oneplus.cn/ebp/201811/14/911/0b5fec0175e8585c08bfaaf213a39584.png",
+            "https://image01.oneplus.cn/ebp/201811/14/1789/7c2d652444a13a19d93bcbb159442e36.png",
+            "https://image01.oneplus.cn/ebp/201811/14/760/e58854e7b44b4724fc134a8422aa8f53.png"
+          ]
+        }
+      ],
+      "discount": "9.0折",
+      "select": [
+        "精选商品",
+        "生活馆",
+        "全部机型",
+        "OnePlus 6T",
+        "OnePlus 6",
+        "OnePlus 5T"
+      ],
+      "state": true
+    },
+    {
+      "id": 2001,
+      "name": "一加云耳 2",
+      "price": [
+        "599.00"
+      ],
+      "typename": "颜色",
+      "types": [
+        "黑色"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/02/813/497d56793cb73cc4fdfa4f60beb8aaac.png",
+            "https://image01.oneplus.cn/ebp/201905/02/48/9c701e3efdb824624ca769b1b07525de.png"
+          ]
+        }
+      ],
+      "discount": "5.2折",
+      "select": [
+        "精选商品",
+        "耳机",
+        "全部机型",
+        "OnePlus 7",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 5007,
+      "name": "OnePlus 7 Pro 悦耳套装",
+      "price": [
+        "302.10"
+      ],
+      "typename": "套装",
+      "types": [
+        "一加银耳2T耳机",
+        "一加手机7 Pro 全包保护壳"
+      ],
+      "selectlist": [
+        {
+          "selectitem": [
+            "黑色"
+          ]
+        },
+        {
+          "selectitem": [
+            "芳纶纤维",
+            "尼龙"
+          ]
+        }
+      ],
+      "imagetz": "https://image01.oneplus.cn/ebp/201905/06/1726/a2fe29aa7a5f143d0578bac7f453f2b2_384_384.png",
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/28/800/12c096a121ab9a86d8ac9b02dc3d7a4c_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/14/596/b604bd1a67b90bd1cd3d4d7a78160c08_160_160.png",
+            "https://image01.oneplus.cn/ebp/201908/14/1783/0ec7147fbef87f363b32a2d5ab65230e_160_160.png"
+          ]
+        }
+      ],
+      "discount": "9.6折",
+      "select": [
+        "精选商品",
+        "耳机",
+        "壳/膜",
+        "套装",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 2003,
+      "name": "一加银耳 2T",
+      "price": [
+        "119.00"
+      ],
+      "typename": "颜色",
+      "types": [
+        "黑色"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/28/800/12c096a121ab9a86d8ac9b02dc3d7a4c.png",
+            "https://image01.oneplus.cn/ebp/201810/28/848/0b207564e2f5676b25a801f994d6ef2f.png",
+            "https://image01.oneplus.cn/ebp/201810/28/1330/e7c24cf7338060831dd0e168322110ab.png"
+          ]
+        }
+      ],
+      "discount": "5.0折",
+      "select": [
+        "精选商品",
+        "耳机",
+        "全部机型",
+        "OnePlus 7",
+        "OnePlus 7 Pro",
+        "OnePlus 6T",
+        "OnePlus 6",
+        "OnePlus 5T"
+      ],
+      "state": true
+    },
+    {
+      "id": 3001,
+      "name": "OnePlus 5T 全包保护壳",
+      "price": [
+        "199.00",
+        "99.50",
+        "199.00"
+      ],
+      "typename": "颜色",
+      "types": [
+        "酸枝",
+        "芳纶纤维",
+        "黑檀"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201712/19/858/1acac735e544ae9f55b6b38df1ea7587.png",
+            "https://image01.oneplus.cn/ebp/201712/19/1266/dfb2a8a5f02a84d6900da437ed0f671e.png",
+            "https://image01.oneplus.cn/ebp/201712/19/1620/7b84feee02fd5dbd8d5dc1fce75f1a05.png",
+            "https://image01.oneplus.cn/ebp/201712/19/336/bcd09a3322c728dec2d6790fddf9d502.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201712/15/799/0aef9eaed3d0fc72b5ba59a7a5c65de9.png",
+            "https://image01.oneplus.cn/ebp/201712/15/257/ace1ae69c581cf165e95f2c33032a1c4.png",
+            "https://image01.oneplus.cn/ebp/201712/15/951/80b7282ff548fc32297ad1690a9a5e7f.png",
+            "https://image01.oneplus.cn/ebp/201712/15/1061/dee551fc67866f55806e2909a66024c6.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201712/19/1099/eeab159866ee25e308a5d921a6a4326a.png",
+            "https://image01.oneplus.cn/ebp/201712/19/278/2ff633f9acb5bcbed487468c17a82d26.png",
+            "https://image01.oneplus.cn/ebp/201712/19/623/026fd619cbbe55f135e6254bd2609318.png",
+            "https://image01.oneplus.cn/ebp/201712/19/572/311c2377ed2692a94491ab4fe06a0c8a.png"
+          ]
+        }
+      ],
+      "discount": "5.0折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 5T"
+      ],
+      "state": true
+    },
+    {
+      "id": 3002,
+      "name": "OnePlus 5T 个性保护壳",
+      "price": [
+        "49.50",
+        "74.50"
+      ],
+      "typename": "颜色",
+      "types": [
+        "砂岩黑",
+        "芳纶纤维"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201711/24/498/fbf2d88416486f28fb1aaf1a3169a2c8.png",
+            "https://image01.oneplus.cn/ebp/201711/24/793/7849a042eea3fff1575b773a1ff34968.png",
+            "https://image01.oneplus.cn/ebp/201711/24/793/7849a042eea3fff1575b773a1ff34968.png",
+            "https://image01.oneplus.cn/ebp/201711/24/142/d37ee33f1fc42727fbf53fef3fe328de.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201711/24/1428/e054a66b223afa6e82ea0d8e19eaac2c.png",
+            "https://image01.oneplus.cn/ebp/201711/24/26/fa1afe35eb057c0b55b974dd8d41d90b.png",
+            "https://image01.oneplus.cn/ebp/201711/24/1842/93d2f1e0822c98acfb62e40e50c1cb4a.png",
+            "https://image01.oneplus.cn/ebp/201711/24/950/ee1651db0f4720ee9d6ed6dee685cfa8.png"
+          ]
+        }
+      ],
+      "discount": "5.0折",
+      "select": [
+        "精选商品",
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 5T"
+      ],
+      "state": true
+    },
+    {
+      "id": 3003,
+      "name": "OnePlus 6T 个性保护壳",
+      "price": [
+        "89.40",
+        "59.40"
+      ],
+      "typename": "颜色",
+      "types": [
+        "芳纶纤维",
+        "砂岩黑"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/25/408/7e98cd1f9a798b76471f601806b29a11.png",
+            "https://image01.oneplus.cn/ebp/201810/25/1032/fe086a695e2b99272afc44191b284fc5.png",
+            "https://image01.oneplus.cn/ebp/201810/25/1794/9b723850687a66cd920c424bdd4c4a6e.png",
+            "https://image01.oneplus.cn/ebp/201810/25/1811/5d03f72d3d632d81b77b7f1d7c25d1c1.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/25/90/758a2dae167ec24e14e5e01cf94105f4.png",
+            "https://image01.oneplus.cn/ebp/201810/25/1171/71f372b06bd3c467b5cf4784c6525c9a.png",
+            "https://image01.oneplus.cn/ebp/201810/25/957/22fda866534fb599fb03365d0f723977.png",
+            "https://image01.oneplus.cn/ebp/201810/25/819/b6e381c14cdf03fec38209ea666d931e.png"
+          ]
+        }
+      ],
+      "discount": "6.0折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 6T"
+      ],
+      "state": true
+    },
+    {
+      "id": 3004,
+      "name": "OnePlus 6T 全包保护壳",
+      "price": [
+        "149.00",
+        "119.40",
+        "199.00"
+      ],
+      "typename": "颜色",
+      "types": [
+        "尼龙",
+        "芳纶纤维",
+        "黑檀"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/25/722/60920ff8bcbe47c09567acdd3fcff0b3.png",
+            "https://image01.oneplus.cn/ebp/201810/25/765/9f3dfc2d4292124540b1bb31b48caace.png",
+            "https://image01.oneplus.cn/ebp/201810/25/1511/63a7e50e70be40124f8f876e87a684df.png",
+            "https://image01.oneplus.cn/ebp/201810/25/345/a5695f314ccf8745b2ec9485436e8d01.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/25/14/b3be957001123d3ae5affa0161a2612e.png",
+            "https://image01.oneplus.cn/ebp/201810/25/1138/42f2c598c82a0d3966a0ba7e271acbac.png",
+            "https://image01.oneplus.cn/ebp/201810/25/656/c5e0ee668689771d601ccd90fdae326f.png",
+            "https://image01.oneplus.cn/ebp/201810/25/1112/5a4832c0b235182afef8d77456fbc36d.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/25/1005/c73d84132cbf42654b4bf3c011fb906e.png",
+            "https://image01.oneplus.cn/ebp/201810/25/926/039eea2c2168f4d39c51cbf143ce5f68.png",
+            "https://image01.oneplus.cn/ebp/201810/25/1265/725115705fd1c88d02da259bb5f4a073.png",
+            "https://image01.oneplus.cn/ebp/201810/25/392/47d838f83e84871b92f6a9602674553d.png"
+          ]
+        }
+      ],
+      "discount": "6.0折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 6T"
+      ],
+      "state": true
+    },
+    {
+      "id": 3005,
+      "name": "OnePlus 6T 硅胶保护壳",
+      "price": [
+        "77.40"
+      ],
+      "typename": "颜色",
+      "types": [
+        "红色"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/25/1673/4cd941a66713e21db0373c313f7f8002.png",
+            "https://image01.oneplus.cn/ebp/201810/25/148/2f74ab5d368472d19099f48ab3618f5b.png",
+            "https://image01.oneplus.cn/ebp/201810/25/1495/ffd77a9d1cd1cd68bf80322f67ef4582.png",
+            "https://image01.oneplus.cn/ebp/201810/25/1542/a246458a0f7ba06a68a09590e0de9d36.png"
+          ]
+        }
+      ],
+      "discount": "6.1折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 6T"
+      ],
+      "state": true
+    },
+    {
+      "id": 3006,
+      "name": "OnePlus 6T 保护套",
+      "price": [
+        "77.40"
+      ],
+      "typename": "颜色",
+      "types": [
+        "黑色"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/25/1892/8c34684a6a458d1d685f35beec2525c5.png",
+            "https://image01.oneplus.cn/ebp/201810/25/557/b5dd2fbbf310f120c6947bc693dd9913.png",
+            "https://image01.oneplus.cn/ebp/201810/26/1258/f71a6164f288221df59969471e0480da.png"
+          ]
+        }
+      ],
+      "discount": "6.1折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 6T"
+      ],
+      "state": true
+    },
+    {
+      "id": 3007,
+      "name": "OnePlus 7 全包保护壳",
+      "price": [
+        "149.00"
+      ],
+      "typename": "颜色",
+      "types": [
+        "尼龙"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/29/1887/16ffc34b94328d5d7d5ade5ccc6cb5b3.png",
+            "https://image01.oneplus.cn/ebp/201908/29/1988/55e47c3efcf6634df160b8cba6602ceb.png",
+            "https://image01.oneplus.cn/ebp/201908/29/1465/1d29bf42da26a00ac83545941c705cf1.png",
+            "https://image01.oneplus.cn/ebp/201908/29/1629/5c4d508cff97d6b165899d30845a5c45.png"
+          ]
+        }
+      ],
+      "discount": "6.2折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 7"
+      ],
+      "state": true
+    },
+    {
+      "id": 3008,
+      "name": "OnePlus 7 硅胶保护壳",
+      "price": [
+        "129.00"
+      ],
+      "typename": "颜色",
+      "types": [
+        "红色"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/02/1593/92d9347e1e1138a63339af2116626882.png",
+            "https://image01.oneplus.cn/ebp/201905/02/1741/f12d99ee557ea69578006abf5805722a.png",
+            "https://image01.oneplus.cn/ebp/201905/02/1285/72650dff8edf13f95efe3f9243567bff.png",
+            "https://image01.oneplus.cn/ebp/201905/02/307/fb33360e423871193393a75f6aa119aa.png"
+          ]
+        }
+      ],
+      "discount": "6.2折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 7"
+      ],
+      "state": true
+    },
+    {
+      "id": 3009,
+      "name": "OnePlus 7 Pro 全包保护壳",
+      "price": [
+        "199.00",
+        "149.00"
+      ],
+      "typename": "颜色",
+      "types": [
+        "芳纶纤维",
+        "尼龙"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/14/596/b604bd1a67b90bd1cd3d4d7a78160c08.png",
+            "https://image01.oneplus.cn/ebp/201908/14/1375/1ccfe8637d627b6ae5d0536ed7fa60f3.png",
+            "https://image01.oneplus.cn/ebp/201905/02/307/0133e0c896e21041b783aea22218c6d7.png",
+            "https://image01.oneplus.cn/ebp/201905/02/1847/6cc72a9303299f73a073bb54a0d41e95.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/14/1783/0ec7147fbef87f363b32a2d5ab65230e.png",
+            "https://image01.oneplus.cn/ebp/201908/14/456/01c81dbef5405952c488ab00deb7a387.png",
+            "https://image01.oneplus.cn/ebp/201905/02/600/11f8300065edb2113b06cc83c56dfa06.png",
+            "https://image01.oneplus.cn/ebp/201905/02/793/be99729453e7aff02df92cf9bbfe3c6e.png"
+          ]
+        }
+      ],
+      "discount": "6.0折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 3010,
+      "name": "OnePlus 7 3D 钢化膜",
+      "price": [
+        "129.00"
+      ],
+      "typename": "颜色",
+      "types": [
+        "透明"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/02/935/78d78c251bbccb2f9e8a02fa3e4ccebc.png",
+            "https://image01.oneplus.cn/ebp/201905/02/902/af66db5c56b055f3af03fe724b9b9cc1.png"
+          ]
+        }
+      ],
+      "discount": "6.0折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 7"
+      ],
+      "state": true
+    },
+    {
+      "id": 3011,
+      "name": "OnePlus 7 个性保护壳",
+      "price": [
+        "99.00"
+      ],
+      "typename": "颜色",
+      "types": [
+        "砂岩黑"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/28/608/6020db979feb07b54ac946feb6c864bb.png",
+            "https://image01.oneplus.cn/ebp/201908/28/256/56f0955813fa06f71adbc07c5900b7fb.png",
+            "https://image01.oneplus.cn/ebp/201908/28/484/bd64a52ee8b3e6bb4d741d4ec472ab88.png",
+            "https://image01.oneplus.cn/ebp/201908/28/1046/c766c3d5a90a1decdadfbe9e95837770.png"
+          ]
+        }
+      ],
+      "discount": "6.3折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 7"
+      ],
+      "state": true
+    },
+    {
+      "id": 3012,
+      "name": "OnePlus 7 Pro 个性保护壳",
+      "price": [
+        "149.00",
+        "99.00"
+      ],
+      "typename": "颜色",
+      "types": [
+        "芳纶纤维",
+        "砂岩黑"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/14/288/5ee0fe1151e686d63ddccd2916630850.png",
+            "https://image01.oneplus.cn/ebp/201908/14/1924/da743fa3b421b8ff1fe8d1656a4d7426.png",
+            "https://image01.oneplus.cn/ebp/201905/02/792/2a28b267e636e5cd8458728d78540cb6.png",
+            "https://image01.oneplus.cn/ebp/201905/02/1816/ab283084830fe771555b7a5f799fbafb.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/14/789/59056f3e0295567ecf6c2e8032257f05.png",
+            "https://image01.oneplus.cn/ebp/201908/14/113/08415f111af6ade4b932e5b36c56dd1a.png",
+            "https://image01.oneplus.cn/ebp/201905/02/1673/c209de842f9b382bdeec0997b35ae63c.png",
+            "https://image01.oneplus.cn/ebp/201905/02/381/18eda12798e2c744a21174af28cdc4dc.png"
+          ]
+        }
+      ],
+      "discount": "6.5折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 5006,
+      "name": "OnePlus Warp 30 闪充套装",
+      "price": [
+        "217.00"
+      ],
+      "typename": "套装",
+      "types": [
+        "OnePlus Warp 闪充 30 电源适配器",
+        "OnePlus Warp 闪充 Type-C 数据线"
+      ],
+      "selectlist": [
+        {
+          "selectitem": [
+            "Warp 闪充"
+          ]
+        },
+        {
+          "selectitem": [
+            "100cm"
+          ]
+        }
+      ],
+      "imagetz": "https://image01.oneplus.cn/ebp/201905/06/70/5636f8811efd6e175ac00a6a7f714c6c_384_384.png",
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/02/128/d370b62e0cf27c521cadd14220b4b308_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/06/665/0a6970ae061b602d32ce662592055d62_160_160.png"
+          ]
+        }
+      ],
+      "discount": "9.6折",
+      "select": [
+        "精选商品",
+        "适配器/数据线",
+        "套装",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 1002,
+      "name": "OnePlus 7 Pro",
+      "price": [
+        "4299.00",
+        "4299.00",
+        "4899.00",
+        "3899.00",
+        "4399.00"
+      ],
+      "typename": "选择版本型号",
+      "types": [
+        "星雾蓝8G+256GB",
+        "曜岩灰8G+256GB",
+        "星雾蓝12G+256GB",
+        "曜岩灰6G+128GB",
+        "皓月金8G+256GB"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/05/232/eb48f0aa21853fe648a29523231b736d_840_840.png",
+            "https://image01.oneplus.cn/ebp/201905/13/365/18dd0754b7caa7ba4d8cbaad7ed14350_840_840.png",
+            "https://image01.oneplus.cn/ebp/201908/05/790/fd16dd3145169ddcd4d391c193e65103_840_840.png",
+            "https://image01.oneplus.cn/ebp/201908/05/339/c4a36efa935ee14b41f86076e3df15f8_840_840.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/05/1187/d7936369ff0b70395bad719ecccc4fe8_840_840.png",
+            "https://image01.oneplus.cn/ebp/201908/05/1101/fe4ddf917a8bc936f2e7d39cdf76b972_840_840.png",
+            "https://image01.oneplus.cn/ebp/201908/05/277/7e15e305143ab5febd8b2a27e1bd1798_840_840.png",
+            "https://image01.oneplus.cn/ebp/201908/05/1714/6472218434d9d4aec230ae06928c73ec_840_840.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/05/232/eb48f0aa21853fe648a29523231b736d_840_840.png",
+            "https://image01.oneplus.cn/ebp/201905/13/365/18dd0754b7caa7ba4d8cbaad7ed14350_840_840.png",
+            "https://image01.oneplus.cn/ebp/201908/05/790/fd16dd3145169ddcd4d391c193e65103_840_840.png",
+            "https://image01.oneplus.cn/ebp/201908/05/339/c4a36efa935ee14b41f86076e3df15f8_840_840.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/05/1187/d7936369ff0b70395bad719ecccc4fe8_840_840.png",
+            "https://image01.oneplus.cn/ebp/201908/05/1101/fe4ddf917a8bc936f2e7d39cdf76b972_840_840.png",
+            "https://image01.oneplus.cn/ebp/201908/05/277/7e15e305143ab5febd8b2a27e1bd1798_840_840.png",
+            "https://image01.oneplus.cn/ebp/201908/05/1714/6472218434d9d4aec230ae06928c73ec_840_840.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/05/793/0ae9927f56f03d5bc25cb0f368cd994a_840_840.png",
+            "https://image01.oneplus.cn/ebp/201905/13/1515/63ab892ce99b36e20523dc4584dfd45b_840_840.png",
+            "https://image01.oneplus.cn/ebp/201908/05/1107/eeb3fc98aa17fde50435d163b68007b2_840_840.png",
+            "https://image01.oneplus.cn/ebp/201908/05/1058/c77245d40821ad9530f3ff2e4b2d4534_840_840.png"
+          ]
+        }
+      ],
+      "discount": "9.6折",
+      "select": [
+        "精选商品",
+        "手机",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 4001,
+      "name": "一加Warp闪充30电源适配器",
+      "price": [
+        "149.00"
+      ],
+      "typename": "规格",
+      "types": [
+        "中规"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/02/128/d370b62e0cf27c521cadd14220b4b308.png",
+            "https://image01.oneplus.cn/ebp/201905/02/1839/c2af088f1d8539d452b46a328875e246.png",
+            "https://image01.oneplus.cn/ebp/201905/02/30/7d1efc6fb23934cf1cb1bcfa5ed9646c.png"
+          ]
+        }
+      ],
+      "discount": "8.4折",
+      "select": [
+        "精选商品",
+        "适配器/数据线",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 4002,
+      "name": "一加Warp闪充30车载充电器",
+      "price": [
+        "199.00"
+      ],
+      "typename": "规格",
+      "types": [
+        "中规"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/02/1750/e196329a2ae13dfb71bd9c0809a3e5f6.png",
+            "https://image01.oneplus.cn/ebp/201905/02/997/d6d58d94a2a9338a456f514a057657f7.png",
+            "https://image01.oneplus.cn/ebp/201905/02/1781/d9e5fecbd2aa156309c56b63d34a8d0d.png",
+            "https://image01.oneplus.cn/ebp/201905/09/371/6703d3951711fbb4c3fb950519f78301.png"
+          ]
+        }
+      ],
+      "discount": "8.5折",
+      "select": [
+        "精选商品",
+        "适配器/数据线",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 4003,
+      "name": "一加 Warp 闪充 30 Type-C 数据线",
+      "price": [
+        "99.00",
+        "79.00"
+      ],
+      "typename": "长度",
+      "types": [
+        "150cm",
+        "100cm"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/06/1149/3b2ddfbc41853ce66be36bb73455e2ad.png",
+            "https://image01.oneplus.cn/ebp/201905/06/155/27ab5f883c3c07b3e99cd3658d27068c.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/06/665/0a6970ae061b602d32ce662592055d62.png",
+            "https://image01.oneplus.cn/ebp/201905/06/155/27ab5f883c3c07b3e99cd3658d27068c.png"
+          ]
+        }
+      ],
+      "discount": "8.3折",
+      "select": [
+        "精选商品",
+        "适配器/数据线",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 4004,
+      "name": "一加Type-C OTG数据线",
+      "price": [
+        "59.00"
+      ],
+      "typename": "长度",
+      "types": [
+        "108cm"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201611/12/1946/26da3eb22d88d337fd0136f5cbfc9aa3.png",
+            "https://image01.oneplus.cn/ebp/201611/12/37/a435ea9d70796e0d0f22fca51f69acf2.png"
+          ]
+        }
+      ],
+      "discount": "8.3折",
+      "select": [
+        "精选商品",
+        "适配器/数据线",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 4005,
+      "name": "OnePlus Type-C转3.5mm转接线",
+      "price": [
+        "39.00"
+      ],
+      "typename": "长度",
+      "types": [
+        "9cm"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/28/1790/ca4e8af496116a5647c789ee6000d9e9.png",
+            "https://image01.oneplus.cn/ebp/201810/28/1782/45765878cc211aa9ae20fbdec0c75abf.png",
+            "https://image01.oneplus.cn/ebp/201810/28/1814/ab26f2a5c2309dae0eb06ca9c7977893.png",
+            "https://image01.oneplus.cn/ebp/201810/28/556/581c5404392dbcd79915a7cf7a458b95.png",
+            "https://image01.oneplus.cn/ebp/201810/28/389/4fa5d175ca4d3e762781964466ad6b8b.png"
+          ]
+        }
+      ],
+      "discount": "8.3折",
+      "select": [
+        "精选商品",
+        "适配器/数据线",
+        "全部机型",
+        "OnePlus 6T"
+      ],
+      "state": true
+    },
+    {
+      "id": 5005,
+      "name": "OnePlus 旅行套装",
+      "price": [
+        "245.00"
+      ],
+      "typename": "套装",
+      "types": [
+        "车载闪充",
+        "OnePlus Type-C OTG数据线"
+      ],
+      "selectlist": [
+        {
+          "selectitem": [
+            "冰川灰"
+          ]
+        },
+        {
+          "selectitem": [
+            "白色+红色"
+          ]
+        }
+      ],
+      "imagetz": "https://image01.oneplus.cn/ebp/201905/06/680/41283f832fbe1246c898da2d40da9529_384_384.png",
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/02/1750/e196329a2ae13dfb71bd9c0809a3e5f6_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201611/12/1946/26da3eb22d88d337fd0136f5cbfc9aa3_160_160.png"
+          ]
+        }
+      ],
+      "discount": "9.5折",
+      "select": [
+        "精选商品",
+        "适配器/数据线",
+        "套装",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 5001,
+      "name": "OnePlus 7 简约套装",
+      "price": [
+        "193.80"
+      ],
+      "typename": "套装",
+      "types": [
+        "OnePlus 7 保护壳",
+        "OnePlus 7 3D 钢化膜"
+      ],
+      "selectlist": [
+        {
+          "selectitem": [
+            "OnePlus 7 砂岩黑保护壳",
+            "OnePlus 7 硅胶保护壳",
+            "OnePlus 7 尼龙全包保护壳"
+          ]
+        },
+        {
+          "selectitem": [
+            "OnePlus 7 3D 钢化膜"
+          ]
+        }
+      ],
+      "imagetz": "https://image01.oneplus.cn/ebp/201905/06/1296/a150762b05d978adb4828a5eb7fd235f_384_384.png",
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/28/608/6020db979feb07b54ac946feb6c864bb_160_160.png",
+            "https://image01.oneplus.cn/ebp/201905/02/1593/92d9347e1e1138a63339af2116626882_160_160.png",
+            "https://image01.oneplus.cn/ebp/201908/29/1887/16ffc34b94328d5d7d5ade5ccc6cb5b3_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/02/902/af66db5c56b055f3af03fe724b9b9cc1.png"
+          ]
+        }
+      ],
+      "discount": "8.5折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "套装",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 5002,
+      "name": "OnePlus 轻生活套装",
+      "price": [
+        "294.95"
+      ],
+      "typename": "套装",
+      "types": [
+        "一加Warp闪充30电源适配器",
+        "OnePlus Warp闪充Type-C数据线",
+        "OnePlus 银耳2T耳机"
+      ],
+      "selectlist": [
+        {
+          "selectitem": [
+            "中规"
+          ]
+        },
+        {
+          "selectitem": [
+            "100cm",
+            "150cm"
+          ]
+        },
+        {
+          "selectitem": [
+            "黑色"
+          ]
+        }
+      ],
+      "imagetz": "https://image01.oneplus.cn/ebp/201905/08/1507/b1c374ef6bad2d30b3a55af10f5b5dca_384_384.png",
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/02/128/d370b62e0cf27c521cadd14220b4b308_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/06/665/0a6970ae061b602d32ce662592055d62_160_160.png",
+            "https://image01.oneplus.cn/ebp/201905/06/1149/3b2ddfbc41853ce66be36bb73455e2ad_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/28/800/12c096a121ab9a86d8ac9b02dc3d7a4c_160_160.png"
+          ]
+        }
+      ],
+      "discount": "8.5折",
+      "select": [
+        "精选商品",
+        "耳机",
+        "适配器/数据线",
+        "套装",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 5003,
+      "name": "OnePlus 7 Pro 全家桶套装",
+      "price": [
+        "464.10"
+      ],
+      "typename": "套装",
+      "types": [
+        "OnePlus 7 Pro 全包保护壳",
+        "OnePlus Warp闪充30电源适配器",
+        "OnePlus Warp闪充Type-C数据线",
+        "OnePlus 银耳2T耳机"
+      ],
+      "selectlist": [
+        {
+          "selectitem": [
+            "OnePlus 7 Pro 芳纶纤维全包保护壳",
+            "OnePlus 7 Pro 尼龙全包保护壳"
+          ]
+        },
+        {
+          "selectitem": [
+            "OnePlus Warp闪充30电源适配器"
+          ]
+        },
+        {
+          "selectitem": [
+            "OnePlus Warp闪充Type-C数据线(100cm)",
+            "OnePlus Warp闪充Type-C数据线(150cm)"
+          ]
+        },
+        {
+          "selectitem": [
+            "OnePlus 银耳2T耳机"
+          ]
+        }
+      ],
+      "imagetz": "https://image01.oneplus.cn/ebp/201905/10/1144/fe7876f45562609f197f46f839b15a3a_384_384.png",
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201908/14/596/b604bd1a67b90bd1cd3d4d7a78160c08_160_160.png",
+            "https://image01.oneplus.cn/ebp/201908/14/1783/0ec7147fbef87f363b32a2d5ab65230e_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/02/128/d370b62e0cf27c521cadd14220b4b308_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/06/665/0a6970ae061b602d32ce662592055d62_160_160.png",
+            "https://image01.oneplus.cn/ebp/201905/06/1149/3b2ddfbc41853ce66be36bb73455e2ad_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/28/800/12c096a121ab9a86d8ac9b02dc3d7a4c_160_160.png"
+          ]
+        }
+      ],
+      "discount": "8.5折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "适配器/数据线",
+        "耳机",
+        "套装",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 5004,
+      "name": "OnePlus 银耳套装",
+      "price": [
+        "145.00"
+      ],
+      "typename": "套装",
+      "types": [
+        "一加银耳2T耳机",
+        "OnePlus Type-C转3.5mm转接线"
+      ],
+      "selectlist": [
+        {
+          "selectitem": [
+            "黑色"
+          ]
+        },
+        {
+          "selectitem": [
+            "Type-C转接线"
+          ]
+        }
+      ],
+      "imagetz": "https://image01.oneplus.cn/ebp/201901/30/905/a799d8177c4223f7a02b6ab2ed8caf82_384_384.png",
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/28/800/12c096a121ab9a86d8ac9b02dc3d7a4c_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/28/1790/ca4e8af496116a5647c789ee6000d9e9_160_160.png"
+          ]
+        }
+      ],
+      "discount": "9.2折",
+      "select": [
+        "精选商品",
+        "适配器/数据线",
+        "耳机",
+        "套装",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": true
+    },
+    {
+      "id": 4006,
+      "name": "一加闪充电源适配器",
+      "price": [
+        "99.00"
+      ],
+      "typename": "规格",
+      "types": [
+        "中规"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201608/18/185/4ed9f53502219ad4503e87987d9d8097.png",
+            "https://image01.oneplus.cn/ebp/201711/30/1316/a934852fb73051ebfb4c5b47fd441df1.png"
+          ]
+        }
+      ],
+      "discount": "8.5折",
+      "select": [
+        "精选商品",
+        "适配器/数据线",
+        "全部机型",
+        "OnePlus 6",
+        "OnePlus 5T"
+      ],
+      "state": false
+    },
+    {
+      "id": 3013,
+      "name": "OnePlus 6 个性保护壳",
+      "price": [
+        "149.00",
+        "59.40"
+      ],
+      "typename": "颜色",
+      "types": [
+        "芳纶纤维",
+        "砂岩黑"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201805/10/345/7e5999896725fee72f4986e8031c6a0d.png",
+            "https://image01.oneplus.cn/ebp/201805/10/1565/061dee2478ab95f71bc50fc4e698cd66.png",
+            "https://image01.oneplus.cn/ebp/201805/10/1024/23400bd366de25bb3d3c55c79b0fc6e9.png",
+            "https://image01.oneplus.cn/ebp/201805/10/663/fc974da8c2cf230e28da44952492f520.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201805/10/757/9f350e2d523c068d94978589779b0038.png",
+            "https://image01.oneplus.cn/ebp/201805/10/495/195ff41dca8f2230be8528f5a56615b8.png",
+            "https://image01.oneplus.cn/ebp/201805/10/905/97f9cb7fc2d54c6cb7d28f23701f598d.png",
+            "https://image01.oneplus.cn/ebp/201805/10/880/49c072b96d8e8abdc7d17f12d5ed0efe.png"
+          ]
+        }
+      ],
+      "discount": "6.0折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 6"
+      ],
+      "state": false
+    },
+    {
+      "id": 2002,
+      "name": "一加云耳",
+      "price": [
+        "299.00",
+        "299.00"
+      ],
+      "typename": "颜色",
+      "types": [
+        "黑色",
+        "红色"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201811/05/1411/53a3d05b37c2e164ec89bc7344e70696.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201811/05/1825/bad1a270da7ec50f8c236f3fb1b61a00.png"
+          ]
+        }
+      ],
+      "discount": "5.2折",
+      "select": [
+        "精选商品",
+        "耳机",
+        "全部机型",
+        "OnePlus 7",
+        "OnePlus 7 Pro",
+        "OnePlus 6T",
+        "OnePlus 6"
+      ],
+      "state": false
+    },
+    {
+      "id": 5008,
+      "name": "OnePlus 6T 保护套装",
+      "price": [
+        "150.00"
+      ],
+      "typename": "套装",
+      "types": [
+        "OnePlus 6T 尼龙全包保护壳",
+        "OnePlus 6T 3D钢化玻璃保护膜"
+      ],
+      "selectlist": [
+        {
+          "selectitem": [
+            "尼龙"
+          ]
+        },
+        {
+          "selectitem": [
+            "黑色"
+          ]
+        }
+      ],
+      "imagetz": "https://image01.oneplus.cn/ebp/201901/30/263/9d47897ad056992b41eeeb851952a2ac_384_384.png",
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/25/722/60920ff8bcbe47c09567acdd3fcff0b3_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/27/1310/f74eb34edf8d395c800ee229259b3d17_160_160.png"
+          ]
+        }
+      ],
+      "discount": "5.4折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "套装",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": false
+    },
+    {
+      "id": 5009,
+      "name": "闪充套装",
+      "price": [
+        "159.00"
+      ],
+      "typename": "套装",
+      "types": [
+        "一加DASH闪充电源适配器",
+        "一加Warp闪充Type-C数据线"
+      ],
+      "selectlist": [
+        {
+          "selectitem": [
+            "Dash闪充"
+          ]
+        },
+        {
+          "selectitem": [
+            "150cm",
+            "100cm"
+          ]
+        }
+      ],
+      "imagetz": "https://image01.oneplus.cn/ebp/201708/18/313/478925bfe8098c4d7e01192cf7747a6f_384_384.png",
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201608/18/185/4ed9f53502219ad4503e87987d9d8097_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201905/06/1149/3b2ddfbc41853ce66be36bb73455e2ad_160_160.png",
+            "https://image01.oneplus.cn/ebp/201905/06/665/0a6970ae061b602d32ce662592055d62_160_160.png"
+          ]
+        }
+      ],
+      "discount": "8.1折",
+      "select": [
+        "精选商品",
+        "适配器/数据线",
+        "套装",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": false
+    },
+    {
+      "id": 5010,
+      "name": "OnePlus 6T 保护套装",
+      "price": [
+        "295.00"
+      ],
+      "typename": "套装",
+      "types": [
+        "OnePlus 6T 全包保护壳",
+        "OnePlus 6T 3D钢化玻璃保护膜"
+      ],
+      "selectlist": [
+        {
+          "selectitem": [
+            "黑檀",
+            "芳纶纤维"
+          ]
+        },
+        {
+          "selectitem": [
+            "3D保护膜"
+          ]
+        }
+      ],
+      "imagetz": "https://image01.oneplus.cn/ebp/201901/29/89/0059fc152f3c0213ed316e7398bea738_600_600.png",
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/25/1005/c73d84132cbf42654b4bf3c011fb906e_160_160.png",
+            "https://image01.oneplus.cn/ebp/201810/25/14/b3be957001123d3ae5affa0161a2612e_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/27/1310/f74eb34edf8d395c800ee229259b3d17_160_160.png"
+          ]
+        }
+      ],
+      "discount": "9.0折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "套装",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": false
+    },
+    {
+      "id": 5011,
+      "name": "OnePlus 6T 悦耳套装",
+      "price": [
+        "229.00"
+      ],
+      "typename": "套装",
+      "types": [
+        "OnePlus 6T 3D钢化玻璃保护膜",
+        "一加银耳2T耳机"
+      ],
+      "selectlist": [
+        {
+          "selectitem": [
+            "黑色"
+          ]
+        },
+        {
+          "selectitem": [
+            "黑色"
+          ]
+        }
+      ],
+      "imagetz": "https://image01.oneplus.cn/ebp/201810/28/96/6dc09ed83f7320092f463fdc39a77e19_384_384.png",
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/27/1310/f74eb34edf8d395c800ee229259b3d17_160_160.png"
+          ]
+        },
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/28/800/12c096a121ab9a86d8ac9b02dc3d7a4c_160_160.png"
+          ]
+        }
+      ],
+      "discount": "9.3折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "耳机",
+        "套装",
+        "全部机型",
+        "OnePlus 7 Pro"
+      ],
+      "state": false
+    },
+    {
+      "id": 3014,
+      "name": "OnePlus 6T 3D钢化玻璃保护膜",
+      "price": [
+        "77.40"
+      ],
+      "typename": "颜色",
+      "types": [
+        "黑色"
+      ],
+      "img": [
+        {
+          "imglists": [
+            "https://image01.oneplus.cn/ebp/201810/27/1310/f74eb34edf8d395c800ee229259b3d17.png",
+            "https://image01.oneplus.cn/ebp/201810/27/1559/a257403656afcb61be1357fd42b11bdb.png"
+          ]
+        }
+      ],
+      "discount": "6.0折",
+      "select": [
+        "精选商品",
+        "壳/膜",
+        "全部机型",
+        "OnePlus 6T"
+      ],
+      "state": false
+    }
+  ]
+}
